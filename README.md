@@ -13,4 +13,4 @@
  - bt2_sam_16
 4. export files from outputs folder on cluster to local machine
 5. upload files to IGV and examine each locus (IFNB1, IFIT2, ISG15)
-6. upload bedgraph (fwd, rev, and unstranded for each sequence) to Gviz R script in RStudio and run script.
+6. Run HighThroughputSeq_Group5.R in RStudio (change paths to local directory)
